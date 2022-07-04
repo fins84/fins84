@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Kevin, Computer science and mechatronics student at Curtin.
 
-Contact:
+## Contact:
 Email: diamondarrow123@gmail.com
 
 Discord: Camera#4617
 
-Computer Science And Mechatronics:
+## Computer Science And Mechatronics:
 
 DSA: https://github.com/fins84/DSA
 
