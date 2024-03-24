@@ -5,7 +5,7 @@
 ## Contact:
 | Email | Discord |
 |--|--|
-| diamondarrow123@gmail.com | Camera#4617 |
+| diamondarrow123@gmail.com | c1_ |
 
 
 
