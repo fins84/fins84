@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Kevin, Computer science and mechatronics student at Curtin.
+### Hi there 👋 I'm Kevin, a Computer science and mechatronics student at Curtin.
 
 
 
 ## Contact:
 | Email | Discord |
 |--|--|
-| diamondarrow123@gmail.com | c1_ |
+| mozziekf@gmail.com | c1_ |
 
 
 
