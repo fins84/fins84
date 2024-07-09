@@ -11,10 +11,12 @@
 
 ## Computer Science And Mechatronics:
 
-[DSA](https://github.com/fins84/DSA)
+[Data Structures and Algorithms, COMP1002](https://github.com/fins84/DSA)
 
-[UCP](https://github.com/fins84/UCP)
+[Unix and C Programming, COMP1000](https://github.com/fins84/UCP)
 
-[FOP](https://github.com/fins84/UCP)
+[Fundamentals Of Programming, COMP1005](https://github.com/fins84/FOP)
 
-[Machine Learning](https://github.com/fins84/COMP3010)
+[Machine Learning, COMP3010](https://github.com/fins84/COMP3010)
+
+[Mechatronics Automation Project, MXEN3002](https://github.com/fins84/MXEN3002)
